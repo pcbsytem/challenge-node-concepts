@@ -8,7 +8,7 @@
     "test": "jest -o --watch",
     "test:coverage": "jest -o --coverage",
     "insomnia-doc": "npx insomnia-documenter --config challenge-node-concepts.json --output insomnia-documentation",
-    "insomnia-run": "cd insomnia-documentation && npx serve"
+    "insomnia-run": "npx serve"
   },
   "dependencies": {
     "cors": "^2.8.5",
