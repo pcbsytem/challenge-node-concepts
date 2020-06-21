@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "nodemon",
     "test": "jest -o --watch",
-    "test:coverage": "jest -o --coverage"
+    "test:coverage": "jest -o --coverage",
+    "insomnia-doc": "npx insomnia-documenter --config challenge-node-concepts.json --output insomnia-documentation",
+    "insomnia-run": "cd insomnia-documentation && npx serve"
   },
   "dependencies": {
     "cors": "^2.8.5",
