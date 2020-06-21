@@ -82,6 +82,7 @@ app.post("/repositories/:id/like", (request, response) => {
   const { url, title, techs, likes } = repositories[repositoryIndex];
 
   const repository = {
+    id,
     url,
     title,
     techs,
