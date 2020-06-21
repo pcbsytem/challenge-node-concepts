@@ -50,4 +50,10 @@ npm run insomnia-run
 
 Add workspace in your Insomnia
 
-<a href="https://insomnia.rest/run/?label=challenge-node-concepts&uri=https%3A%2F%2Fchallenge-node-concepts" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+Before install 
+<a href="https://insomnia.rest/download/" target="_blank">Insomnia</a>
+
+
+<a href="https://insomnia.rest/run/?label=challenge-node-concepts&uri=https%3A%2F%2Fchallenge-node-concepts" target="_blank">
+  <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
+</a>
