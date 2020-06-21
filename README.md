@@ -15,6 +15,25 @@ This project is a node API challenge (CRUD) that you can manage your repositorie
 
 ## Get started
 
+Install first
+
+<a href="https://git-scm.com/downloads" target="_blank">
+  GIT - https://git-scm.com/downloads
+</a><br/>
+
+<a href="https://nodejs.org/en/download/" target="_blank">
+  Node - https://nodejs.org/en/download/
+</a> 
+
+<br/>
+<br/>
+
+Clone
+```console
+git clone https://github.com/pcbsytem/next-level-week.git
+```
+<br/>
+
 Install and run
 ```console
 npm i
